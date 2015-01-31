@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.375"
-     inkscape:cx="59.536938"
-     inkscape:cy="15.141677"
+     inkscape:zoom="7.7781746"
+     inkscape:cx="49.251748"
+     inkscape:cy="35.712056"
      inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:document-units="px"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -109,7 +109,7 @@
            x="-53.272728"
            y="20.727272"
            style="-inkscape-font-specification:FontAwesome;font-family:FontAwesome;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /></flowRegion><flowPara
-         id="flowPara3015"></flowPara></flowRoot>    <g
+         id="flowPara3015" /></flowRoot>    <g
        transform="matrix(0.99968174,-0.02522754,0.02522754,0.99968174,11.442273,17.227692)"
        style="font-size:28.01313590999999903px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4caf50;fill-opacity:1;stroke:none;font-family:Sans"
        id="text3017-1">
@@ -163,18 +163,6 @@
      style="display:inline">
     <text
        xml:space="preserve"
-       style="font-size:26.50911713px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#a18a89;fill-opacity:0.19607843;stroke:none;font-family:Sans"
-       x="-3.9633467"
-       y="27.303946"
-       id="text3017-4"
-       sodipodi:linespacing="125%"
-       transform="matrix(0.95908904,-0.2831046,0.2831046,0.95908904,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan3019-1"
-         x="-3.9633467"
-         y="27.303946"></tspan></text>
-    <text
-       xml:space="preserve"
        style="font-size:26.50911713px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f44336;fill-opacity:1;stroke:none;font-family:Sans"
        x="-2.720902"
        y="26.628202"
@@ -185,5 +173,17 @@
          id="tspan3019"
          x="-2.720902"
          y="26.628202"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:26.50911713px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#a18a89;fill-opacity:0.19607843;stroke:none;font-family:Sans"
+       x="-3.9633467"
+       y="27.303946"
+       id="text3017-4"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.95908904,-0.2831046,0.2831046,0.95908904,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3019-1"
+         x="-3.9633467"
+         y="27.303946"></tspan></text>
   </g>
 </svg>
